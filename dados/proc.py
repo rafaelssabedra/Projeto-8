@@ -1,12 +1,4 @@
-"""
-Módulo de Processamento
 
-Descrição: Este módulo prevê o processamento de dados do Aplicativo de análise de dados via API.
-Autor: Letícia Santos e Ronaldo Debiasi
-Versão: 0.0.1
-Data: 12/12/2023
-
-"""
 # Importando bibliotecas necessárias
 
 import requests
