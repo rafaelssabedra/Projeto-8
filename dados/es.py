@@ -1,12 +1,4 @@
-"""
-Módulo Entrada e Saída
 
-Descrição: Este módulo prevê funções de entrada e saída de dados para o Aplicativo de análise de dados via API.
-Autor: Letícia Santos e Ronaldo Debiasi
-Versão: 0.0.1
-Data: 12/12/2023
-
-"""
 # Importando bibliotecas necessárias
 
 import numpy as np
