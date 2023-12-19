@@ -1,12 +1,4 @@
-"""
-Módulo Principal
 
-Descrição: Este é o módulo com a função principal que integra as fases de entrada, processamento e saída de dados do Aplicativo de análise de dados via API.
-Autor: Letícia Santos e Ronaldo Debiasi
-Versão: 0.0.1
-Data: 12/12/2023
-
-"""
 
 # Importação dos módulos
 
